@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="gcm_defaultSenderId" translatable="false">1008405997591</string>
+    <string name="google_api_key" translatable="false">AIzaSyATjyKigei72ne_VxbBa4nXcAfWvnMcYEc</string>
+    <string name="google_app_id" translatable="false">1:1008405997591:android:f72606001e0d0487b35452</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyATjyKigei72ne_VxbBa4nXcAfWvnMcYEc</string>
+    <string name="google_storage_bucket" translatable="false">bacaan-sholat-33e66.appspot.com</string>
+    <string name="project_id" translatable="false">bacaan-sholat-33e66</string>
+</resources>
